@@ -13,9 +13,9 @@ Welcome to my GitHub profile! I'm a passionate software developer and AI enthusi
 - 💻 **Technologies:** Python, JavaScript, Dart, Flutter, C++, React, Next.js, AI/ML
 - 💬 Ask me about **AI/ML, Computer Vision, Full Stack Development & Mobile Development**
 - 🏆 **Projects:** GuideLens (AI navigation for visually impaired), WellWise (AI health assistant)
-- 🌐 **LinkedIn:** [linkedin.com/in/nrai18](https://www.linkedin.com/in/nrai18)
+- 🌐 **LinkedIn:** [linkedin.com/in/naman-rai-7b139b324](https://www.linkedin.com/in/naman-rai-7b139b324)
 - 📧 **Email:** [rai18naman@gmail.com](mailto:rai18naman@gmail.com)
-- 📄 **Resume:** [My Resume](https://drive.google.com/file/d/your-resume-id/view)
+- 📄 **Resume:** [My Resume](https://drive.google.com/file/d/1huckKFBO3AQYAGn492wwvXch-rc5OSvr/view?usp=sharing)
 
 ## Languages and Tools
 <div>
@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and AI enthusi
 ## Connect with Me
 
 - 📧 Email: [rai18naman@gmail.com](mailto:rai18naman@gmail.com)
-- 🌐 LinkedIn: [linkedin.com/in/nrai18](https://www.linkedin.com/in/nrai18)
+- 🌐 LinkedIn: [linkedin.com/in/naman-rai-7b139b324](https://www.linkedin.com/in/naman-rai-7b139b324)
 
 Feel free to explore my repositories and reach out if you want to collaborate on a project or just have a chat about technology and coding!
 
