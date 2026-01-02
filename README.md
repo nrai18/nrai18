@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and AI enthusi
 
 - 💻 **Technologies:** React.js, Next.js, Node.js, Python, MongoDB, PostgreSQL, Tailwind CSS, Docker
 - 💬 Ask me about **Full Stack Development, REST APIs, Database Design & Cloud Deployment**
-- 🏆 **Achievements:** 100 days LeetCode badge, 2-Star Coder on CodeChef (Rating: 1520)
+- 🏆 **Achievements:** 2-Star Coder on CodeChef (Rating: 1520)
 - 🌐 **LinkedIn:** [linkedin.com/in/naman-rai-7b139b324](https://www.linkedin.com/in/naman-rai-7b139b324)
 - 📧 **Email:** [rai18naman@gmail.com](mailto:rai18naman@gmail.com)
 - 📄 **Resume:** [My Resume](https://drive.google.com/file/d/1huckKFBO3AQYAGn492wwvXch-rc5OSvr/view?usp=sharing)
