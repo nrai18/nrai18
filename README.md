@@ -60,6 +60,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and AI enthusi
 
 - 📧 Email: [rai18naman@gmail.com](mailto:rai18naman@gmail.com)
 - 🌐 LinkedIn: [linkedin.com/in/naman-rai-7b139b324](https://www.linkedin.com/in/naman-rai-7b139b324)
+- 📞 Phone: +91 8076408958
 
 Feel free to explore my repositories and reach out if you want to collaborate on a project or just have a chat about technology and coding!
 
